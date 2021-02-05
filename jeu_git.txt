@@ -1,0 +1,9 @@
+Afin de tester cette méthode de travail, voici un petit jeu.
+Une fois que l'architecture de votre répertoire sera faite, on vous mettra un fichier texte à remplir dans votre branche main. Celui-ci commencera par "ROS" et l'objectif sera d'y écrire "ROS est un middleware fabuleux pour faire de la robotique" avec la contribution de chacun.
+Voici les étapes à suivre :
+     Le groupe se partage la phrase. Chacun doit avoir au moins un mot à écrire. 
+     Vous devez ajouter ce mot dans le fichier texte au niveau de votre branche personnelle.
+     Faire remonter les modifications pour que la phrase soit complétée dans le main.
+
+Phrase :
+
