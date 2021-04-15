@@ -16,8 +16,8 @@
 #include "geometry_msgs/Pose2D.h"
 #include "tf/tf.h"
 #include <cstdlib>
-#include "std_msgs.h"
-#include "sensor_msgs.h"
+#include "std_msgs"
+#include "sensor_msgs"
 
 using namespace cv;
 using namespace std;
